@@ -118,7 +118,8 @@
 @media only screen and (max-width: 600px) {
   body{
     
-    background-image: url(https://picsum.photos/600/600);
+    background-image: url(https://picsum.photos/800/800);
+    background-size: cover;
     display: flex;
     flex-direction: column;
     background-repeat: no-repeat;
@@ -157,7 +158,8 @@
 @media only screen and (max-width: 400px) {
   body{
     
-    background-image: url(https://picsum.photos/500/600);
+    background-image: url(https://picsum.photos/800/800);
+    background-size: cover;
     display: flex;
     flex-direction: column;
     background-repeat: no-repeat;
