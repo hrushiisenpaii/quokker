@@ -24,8 +24,6 @@ function displayResults (response) {
   auth.innerText = "- " + response[0].author;
 }
 
-
-
 document.addEventListener("DOMContentLoaded",
   function (event){
     getResults();
