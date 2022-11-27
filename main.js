@@ -28,10 +28,8 @@ function displayResults (response) {
 
 document.addEventListener("DOMContentLoaded",
   function (event){
-
     getResults();
-    
-  
+    document.body.style.backgroundImage = "url('https://picsum.photos/1280/1024/')";
   })
 
 
