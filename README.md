@@ -4,3 +4,4 @@ Rapidapi for quotes fetching.
 https://picsum.photos/ for random images
 
 Link: https://hrushiisenpaii.github.io/quokker/
+Vercel Link: https://quokker.vercel.app/
